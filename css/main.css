@@ -2,13 +2,17 @@ body{
     background-color: #74ffb9;
 
 }
+
 h1 {
+    font-size: 300%;
     color: #feff00;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+
 }
 h2 {
     color: red;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+
 }
 
 p {
@@ -46,6 +50,7 @@ a {
 
 }
 #id1 {
+    font-size: 150%;
     background-color: #92e0f5;
     color: #106100;
 }
