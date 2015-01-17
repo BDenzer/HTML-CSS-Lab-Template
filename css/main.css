@@ -10,9 +10,8 @@ h1 {
 
 }
 h2 {
-    color: red;
+    color: #5a82ff;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
-
 }
 
 p {
@@ -34,9 +33,6 @@ img {
     display: block;
 }
 
-.centerText {
-
-}
 ul {
     list-style-type: none;
     margin: 0;
@@ -46,17 +42,21 @@ a {
     display: block;
     width: 60px;
 }
-.text {
 
-}
 #id1 {
     font-size: 150%;
     background-color: #92e0f5;
     color: #106100;
 }
+
 #id1 li {
     list-style: square;
 }
+
+#id2  {
+    background-color: #f5b827;
+}
+
 .center {
     text-align: center;
 }
